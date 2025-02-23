@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.501a7a0c.css",
+    "main.js": "/Portfolio/static/js/main.cce6ba10.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/puja.jpg": "/Portfolio/static/media/puja.9e1af7b1c6790afe07ab.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.501a7a0c.css.map": "/Portfolio/static/css/main.501a7a0c.css.map",
+    "main.cce6ba10.js.map": "/Portfolio/static/js/main.cce6ba10.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.501a7a0c.css",
+    "static/js/main.cce6ba10.js"
+  ]
+}
